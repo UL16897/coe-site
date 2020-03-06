@@ -1,0 +1,37 @@
+﻿<project version="2.9" name="Mockup" ID="359DD316-4434-4772-A7D6-35CB03D8483C">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1920,4000)" backgroundColor="4294967295" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="653DF8AC-283D-4121-9F65-8F0F87507E4B" expanded="True" code="3hNEZh8f2b" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="6FC4A5E97F1E7A074A5C1061C532D135.jpeg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="42B527A8EC4112066E241342ED0CD22E.jpeg"/>
+        <image key="E0CB9241CF7492313283BA6351728768.png"/>
+        <image key="2DA8D388257A0D980CD8471C8D086AEA.svg"/>
+        <image key="003F91C1D746A17223BE2FFCE6C48528.jpg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+    <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+    <image key="6FC4A5E97F1E7A074A5C1061C532D135.jpeg"/>
+    <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+    <image key="42B527A8EC4112066E241342ED0CD22E.jpeg"/>
+    <image key="E0CB9241CF7492313283BA6351728768.png"/>
+    <image key="2DA8D388257A0D980CD8471C8D086AEA.svg"/>
+    <image key="003F91C1D746A17223BE2FFCE6C48528.jpg"/>
+    <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+  </images>
+</project>
