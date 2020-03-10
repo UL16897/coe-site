@@ -6,12 +6,25 @@
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="Home" ID="C1ACEFD6-4760-4BBB-BF13-F81F7D841A25" expanded="True" code="aWIwHcMKMi" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Home" ID="52AD62C9-90EC-4C52-81A4-2FE074BE431C" expanded="True" code="cK13wuBErq" thumbCode="cK13wuBErq" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
         <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
-        <image key="6FC4A5E97F1E7A074A5C1061C532D135.jpeg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="6FC4A5E97F1E7A074A5C1061C532D135.jpeg"/>
+        <image key="42B527A8EC4112066E241342ED0CD22E.jpeg"/>
+        <image key="E0CB9241CF7492313283BA6351728768.png"/>
+        <image key="2DA8D388257A0D980CD8471C8D086AEA.svg"/>
+        <image key="003F91C1D746A17223BE2FFCE6C48528.jpg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+      </images>
+    </page>
+    <page name="Home - Job listing Header" ID="04E3E405-D1B5-45C8-8C6F-A2AB3A5C84FD" expanded="False" code="jr9rWUz2LF" thumbCode="jr9rWUz2LF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="6FC4A5E97F1E7A074A5C1061C532D135.jpeg"/>
         <image key="42B527A8EC4112066E241342ED0CD22E.jpeg"/>
         <image key="E0CB9241CF7492313283BA6351728768.png"/>
         <image key="2DA8D388257A0D980CD8471C8D086AEA.svg"/>
